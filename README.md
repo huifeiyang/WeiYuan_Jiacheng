@@ -1,7 +1,5 @@
-
 <center>
 <font face="黑体" size="5" color="">
-<br/>
 <br/><a href="http://202.102.26.253:8182/files/76/JC-00.jpg">佳臣-00-给排水总平面布置图</a>
 <br/><a href="http://202.102.26.253:8182/files/76/JC-01.jpg">佳臣-01-给排水设计总说明</a>
 <br/><a href="http://202.102.26.253:8182/files/76/JC-02.jpg">佳臣-02-四~屋面层给排水、消火栓平面图</a>
