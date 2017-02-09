@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/huifeiyang/WeiYuan_Jiacheng/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<center>
+<font face="黑体" size="5" color="">
+<br/>
+<br/><a href="http://202.102.26.253:8182/files/76/JC-00.jpg">佳臣-00-给排水总平面布置图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/JC-01.jpg">佳臣-01-给排水设计总说明</a>
+<br/><a href="http://202.102.26.253:8182/files/76/JC-02.jpg">佳臣-02-四~屋面层给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/JC-03.jpg">佳臣-03-一~三层给排水、消火栓平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/JC-04.jpg">佳臣-04-一~六层自喷平面图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/JC-05.jpg">佳臣-05-给排水系统图，热水系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/JC-06.jpg">佳臣-06-消火栓、喷淋系统图</a>
+<br/><a href="http://202.102.26.253:8182/files/76/JC-07.jpg">佳臣-07-太阳能集中供热院原理图</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huifeiyang/WeiYuan_Jiacheng/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</font>
+</center>
